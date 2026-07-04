@@ -29,7 +29,7 @@ This plugin teaches Claude Code how to use [cmux](https://github.com/manaflow-ai
 </tr>
 <tr>
   <td><strong>Claude Code</strong></td>
-  <td><code>claude plugin marketplace add ph3on1x/claude-cmux-skill</code><br><code>claude plugin install claude-cmux-skill</code></td>
+  <td><code>claude plugin marketplace add Gaket/claude-cmux-skill</code><br><code>claude plugin install claude-cmux-skill</code></td>
 </tr>
 </table>
 
